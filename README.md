@@ -1,2 +1,2 @@
 # Kubernetes-Docker
-Containerization implementing Kubernetes &amp; Docker
+Projects Implementing Kubernetes & Docker
